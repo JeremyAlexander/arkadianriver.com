@@ -27,7 +27,7 @@ greeting:
   title: Welcome!  
   text: You can contact me using the below&#58;
 # - title for your blog's featured posts
-features-title: Featured topics
+# features-title: Featured topics
 # - displayed at the bottom
 closing-head: Thanks for visiting
 closing-para: Feel free to get in touch. Cheers!
