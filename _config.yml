@@ -16,7 +16,7 @@ description: Recruitment Consulting &#x2192; Technical Recruitment
 owner:
   name: Jeremy Alexander # or company name
   email: jeremyalexander.work@gmail.com
-  url: http://jeremyalexander.github.io
+  url: http://jeremyalexander.github.io/index.html
 first_published: 1996 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jeremyalexander.github.io" # the base hostname & protocol for your site
