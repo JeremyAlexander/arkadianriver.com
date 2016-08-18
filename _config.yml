@@ -25,7 +25,7 @@ url: "http://jeremyalexander.github.io" # the base hostname & protocol for your 
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome!  
-  text: You can contact me using the below:
+  text: You can contact me using the below&#58;
 # - title for your blog's featured posts
 features-title: Featured topics
 # - displayed at the bottom
