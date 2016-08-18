@@ -11,12 +11,12 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
-description: Flowing creativity &#x2192; Cascading bliss
+title: TechRecruiter.io
+description: Recruitment Consulting &#x2192; Technical Recruitment
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
+  name: Jeremy Alexander # or company name
+  email: jeremyalexander.work@gmail.com
+  url: http://jeremyalexander.github.io
 first_published: 1996 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jeremyalexander.github.io" # the base hostname & protocol for your site
@@ -34,12 +34,12 @@ closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
-  email: /contact/
+  twitter: https://twitter.com/JBD_alexander
+  github: https://github.com/jeremyalexander
+  linkedin-square: https://linkedin.com/in/jbdalexander
+  #facebook-official: https://facebook.com/
+  #google-plus-square: 
+  #email: /contact/
   #flickr:
   #instagram:
   #youtube-square:
